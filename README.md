@@ -10,5 +10,7 @@ Important steps for git workflow:
 
  Making changes to the remote lets bring them down to local.
 
+One more change for good luck
+
 ## Table of contents ##
 - example_file.txt
